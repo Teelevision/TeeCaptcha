@@ -1,4 +1,8 @@
-TeeCaptcha itself comes with the MIT License (see below). All images included are taken from Teeworlds and therefore are under the license of Teeworlds (see Teeworlds-license.txt).
+TeeCaptcha itself comes with the MIT License (see below).
+All images included are taken from Teeworlds and therefore are
+under the license of Teeworlds (see Teeworlds-license.txt).
+The file png.h is part of libpng and has its own license (see
+the file itself).
 
 ---------------------
 The MIT License (MIT)
